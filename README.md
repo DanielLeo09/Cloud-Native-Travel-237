@@ -1,4 +1,4 @@
-# Travel 237 Community Tourism Platform
+# A Distributed Client-Server Travel Guide Application for Cameroon, with a Flutter Frontend and a Cloud-Based Backend API.
 
 ## 1. Problem Description
 
